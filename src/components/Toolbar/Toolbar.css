@@ -1,0 +1,29 @@
+
+.AppBar {
+  box-shadow:inset;
+  background-color: #2d3142;
+  flex-grow: 1;
+  white-space: nowrap;
+  border-bottom-right-radius: 2rem;
+  border-bottom-left-radius: 2rem;
+}
+
+.HeaderContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  color: #fff;
+}
+
+.HeaderLeftContainer {
+  display: flex;
+  cursor: pointer;
+  
+}
+
+.HeaderIcon {
+  color: green;
+  margin-top: 4px;
+  margin-right: 5px;
+}
+

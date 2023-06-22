@@ -1,0 +1,28 @@
+.JoinGameTextField {
+  width: 70%;
+  padding-bottom: 30px;
+}
+
+.JoinGameButton {
+  color:  var(--color-background);
+  width: 70%;
+  border-radius: 40px;
+  background-color: #ef8354;
+}
+
+.JoinGameCard {
+  background: transparent;
+  border: none !important;
+}
+
+.JoinGameCardHeader {
+  text-align: center;
+}
+
+.JoinGameCardContent {
+  text-align: center;
+}
+
+.JoinGameCardAction {
+  justify-content: center;
+}

@@ -1,0 +1,34 @@
+.CreateGameTextField {
+  padding-bottom: 30px;
+  
+}
+
+.CreateGameButton {
+  color: #fff;
+  width: 70%;
+  border-radius: 40px;
+  background-color: #ef8354;
+}
+
+.CreateGameCard {
+  background: transparent;
+  border: none !important;
+  padding: 50px;
+  color: #151515;
+}
+
+.CreateGameCardHeader {
+  text-align: center;
+}
+
+.CreateGameCardContent {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  
+}
+
+.CreateGameCardAction {
+  justify-content: center;
+  
+}
